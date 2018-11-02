@@ -1,4 +1,4 @@
 pylintrc
-.vsccode
+.vscode
 __pycache__/
 *.pyc
